@@ -8,6 +8,7 @@ INSERT INTO Unit_Of_Measure (description) VALUES( 'Cup' );
 INSERT INTO Unit_Of_Measure (description) VALUES( 'Pinch' );
 INSERT INTO Unit_Of_Measure (description) VALUES( 'Ounce' );
 INSERT INTO Unit_Of_Measure (description) VALUES( 'Gram' );
+INSERT INTO Unit_Of_Measure (description) VALUES( 'Dash' );
 
 
 
